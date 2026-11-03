@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated_at": "2026-11-02T21:12:21.736587-08:00",
+  "generated_at": "2026-11-02T23:24:10.196968-08:00",
   "next_refresh_at": "2026-11-03T05:00:00-08:00",
   "stale": false,
   "stale_feeds": [],
@@ -516,7 +516,7 @@
     "triggered": false,
     "warnings": [],
     "status": "data_collecting",
-    "weeks_collected": 620,
+    "weeks_collected": 621,
     "weeks_needed": 30,
     "max_drawdown_pct": 0.0,
     "rolling_hit_rate": null,
